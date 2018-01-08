@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif; }
+
+.grid-container {
+  display: flex;
+  justify-content: center; }
+
+.grid {
+  border-collapse: collapse;
+  margin-top: 20px; }
+
+table, th, td {
+  border: 1px solid black; }
+
+td {
+  width: 10px;
+  height: 10px; }
+
+/*# sourceMappingURL=index.css.map */
